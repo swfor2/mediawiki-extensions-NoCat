@@ -5,7 +5,7 @@
  *
  * @file NoTitle.i18n.magic.php
  * @author Tony Boyles
- */
+ * https://github.com/wikimedia/mediawiki-extensions-NoTitle/tree/544b3667c30077fb9464c94e2741c769a89ac4c2/resources */
 
 $magicWords = [];
 

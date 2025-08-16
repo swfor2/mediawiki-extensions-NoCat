@@ -7,7 +7,7 @@
  * @author Tony Boyles
  */
 
-class NoTitle {
+class NoTitleHooks {
 
 	/**
 	 * @param array &$doubleUnderscoreIDs
